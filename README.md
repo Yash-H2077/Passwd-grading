@@ -42,3 +42,7 @@ if __name__ == "__main__":
     password_improvements(pwd)
 
 ```
+### 3. Run the script 
+```bash
+python3 pass-analyzer.py
+```
